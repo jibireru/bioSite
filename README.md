@@ -1,4 +1,6 @@
 <h1>WEB 200 Fundamentals of Web Development</h1>
 <h2>Contributors</h2>
-<ul>Robert Kumar</ul>
-<ul>Amanda Groves</ul>
+<ul>
+  <li>Robert Kumar</li>
+  <li>Amanda Groves</li>
+</ul>
