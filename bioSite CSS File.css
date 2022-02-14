@@ -1,0 +1,41 @@
+#goals {
+    font-family: 'Zen Kurenaido', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+#hobbies {
+    font-family:'Zen Kurenaido', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+#about {
+    font-family:'Zen Kurenaido', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+#amie {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-align: center;
+    font-size: 48px;
+}
+#portrait {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#starbucks {
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: right;
+    font-size: 18px;
+}
+
+#para {
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+#hobby-content {
+   float:left;
+}
