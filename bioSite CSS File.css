@@ -59,11 +59,6 @@
 #hobby-content {
     clear: both;
 }
-#footer {
-    text-align: center;
-    font-size: 12px;
-    font-family: 'Red Hat Display', sans-serif;
-}
 #landing-1 {
     float: left;
     margin-right: 10px;
@@ -85,7 +80,29 @@
 #landing-content {
     clear: both;
 }
+#navigation {
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 34px;
+    margin: 50px;
+    text-decoration: none;
+}
 #para-2 {
     font-family: 'Red Hat Display', sans-serif;
     font-size: 18px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a.visited {
+    color: black;
+}
+body {
+    border: solid 15px black;
+    height: 1700px;
+}
+#body-2 {
+    border: solid 15px black;
+    height: 1500px;
 }
