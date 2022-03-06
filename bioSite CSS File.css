@@ -22,8 +22,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    height: 50%;
 }
 #starbucks {
     font-family: 'Red Hat Display', sans-serif;
@@ -87,6 +85,10 @@
     font-size: 34px;
     margin: 50px;
     text-decoration: none;
+    border: solid 5px black;
+    padding: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 #para-2 {
     font-family: 'Red Hat Display', sans-serif;
@@ -100,9 +102,15 @@ a.visited {
 }
 body {
     border: solid 15px black;
-    height: 1700px;
+    height: 1600px;
 }
 #body-2 {
     border: solid 15px black;
-    height: 1500px;
+    height: 1550px;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
 }
